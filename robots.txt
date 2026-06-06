@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zhanghw941017.github.io/mouding-tianxia-guide/sitemap.xml
